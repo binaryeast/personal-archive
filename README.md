@@ -60,3 +60,4 @@ $ make run-webui
 ## 🔭 Future work
 - Authentication.
 - Personalized reader configuration (e.g. font family / size ...)
+- Super dark mode.
